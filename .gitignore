@@ -1,0 +1,16 @@
+# Ignorar la carpeta de entorno virtual
+venv/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de datos
+data/
